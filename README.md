@@ -27,7 +27,7 @@ To run this script, you must have Python and the following packages installed:
 - OpenCV
 - MediaPipe
 
-### DEMO
+### Landmarks model
 ![Landmarks](https://github.com/user-attachments/assets/64b5c2ab-15a7-49f0-9241-e0e4dda6498b)
 
 ## Applications and future extensions
