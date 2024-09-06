@@ -3,6 +3,10 @@
 ## Introduction
 This project is a real-time finger counting application that uses OpenCV for video capture and MediaPipe for hand feature recognition. The application captures video from the webcam, recognizes the position of the fingers and displays the number of fingers raised on the screen.
 
+## DEMO
+
+https://github.com/user-attachments/assets/85977268-23ff-45d1-92ef-536adf5fc2fd
+
 **Note: You can find a .exe file, inside the release section of Github, if you want to try the project, without needing to install Python, if you have a Windows system.**
 
 ### Controls
